@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Spring_Hibernate_MVC_User"
+  id="myeclipse.1448600181849"
+  context-root="/Spring_Hibernate_MVC_User"
+  j2ee-spec="5.0"
+  archive="Spring_Hibernate_MVC_User.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
